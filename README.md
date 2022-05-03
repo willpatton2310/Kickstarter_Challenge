@@ -8,3 +8,8 @@ Our client specifically wanted to know how her theater campaigns performed relat
 The resultant trends showed as follows:
 ![image-name](Theater_Outcomes_vs_Launch.png)
 The data show a clear trend for successful theater campaigns from May through July.  Not only are more campaigns launched, but the percentage of successful campaigns is higher.  November through January should be avoided as successful campaigns as a percentage of total campaigns trends much lower.
+For this campaign, there were no challenges with the data, but it would be interesting to know why donors do not want to donate closer to the end of the calendar year.  Most countries are in the northern hemishpere.  Why are the summer months more attractive for giving to theaters?  What happened with the canceled campaigns, as they were pretty equally distributed throughout the year?
+### Play Campaigns
+Our client wanted to investigate the relationship between campaign size and success for plays.  
+The resultant trends showed as follows:
+![image-name](Outcomes_vs_Goals.png)
