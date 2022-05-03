@@ -5,3 +5,4 @@ We were presented with data from over 4000 prior campaigns to analyze and provid
 ## Overview of Analysis
 ### Theater Campaigns
 Our client specifically wanted to know how her theater campaigns performed related to their launch dates.  Dates for each campaign were provided in Unix timestamps so they had to be converted to and Excel format.  Using these dates, we were able to categorized each successful, failed and canceled theater campaign by the start month over several year.  The resultant trends showed as follows:
+![image-name](Theater_Outcomes_vs_Launch.png)
