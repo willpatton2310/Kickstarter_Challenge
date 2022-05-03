@@ -13,3 +13,6 @@ For this campaign, there were no challenges with the data, but it would be inter
 Our client wanted to investigate the relationship between campaign size and success for plays.  
 The resultant trends showed as follows:
 ![image-name](Outcomes_vs_Goals.png)
+For plays, the data show that there is a fairly clear trend that campaingns with dontation goals of over 15,000 USD or GBP (of over 1000 campaigns, only 57 were performed in a different currency.)  There were 6 out of 9 campaigns that were successful that were over 35,000, but these seem to be outliers to the total sample.  
+To complete this analysis, it would be best to have the dollar exchange rates of the campaigns to preent all data in USD.  It would also be best to separate the British campaigns and the US campaigns as they represent the largest samples.  
+One challenge in dealing with the data was creating so many CountIFS() entries.  It was too manual and prone to errors.
